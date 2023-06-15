@@ -3,7 +3,7 @@ Bangkit 2023 Product-based Capstone
 
 Team ID : C23-PC664
 
-(ML) M153DSX0421 - Fajri Jeisyazidan Albarda - Universitas Budi Luhur
+(ML) M153DSX0421 - Fajri Jeisyazidan Albarda - Universitas Budi Luhur <br />
 (ML) M309DSX3077 - Ardian Hafizh Nurhilman - Universitas Pendidikan Indonesia
 (ML) M017DSX3057 - Praveen Arvind Krisna - Institut Teknologi Bandung
 
