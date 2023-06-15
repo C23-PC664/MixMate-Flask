@@ -8,7 +8,7 @@ Team ID : C23-PC664 <br/>
 <br/>
 Implementation of ML model of MixMate to recommend user's outfit base on the gender and skin color
 <br/> <br/>
-With Requirements:
+With Requirements: <br/>
 Flask==2.3.2 <br/>
 tensorflow==2.12.0<br/>
 deepface==0.0.79<br/>
